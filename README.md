@@ -32,9 +32,9 @@ My inspiration of doing a tinder clone is that I found the complexivity very int
 * HTML
 * CSS
 
-### Process of work
-I have worked in sprints. Scrum.
-* Jira
+### Agile
+
+* Scrum
 
 
 <!-- USAGE EXAMPLES -->
